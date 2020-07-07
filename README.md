@@ -1,3 +1,3 @@
 # VRplayground
 
-Playground for me to experiment VR
+Playground to experiment VR
